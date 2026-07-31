@@ -2,7 +2,7 @@
   "name": "Ludo Classic",
   "short_name": "Ludo",
   "description": "Classic Ludo board game — play locally with friends or against bots.",
-  "start_url": "./ludo.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",

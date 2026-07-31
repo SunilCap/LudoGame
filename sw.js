@@ -1,6 +1,7 @@
-const CACHE_NAME = 'ludo-classic-v1';
+const CACHE_NAME = 'ludo-classic-v2';
 const APP_SHELL = [
-  './ludo.html',
+  './',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
